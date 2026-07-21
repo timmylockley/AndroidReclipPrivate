@@ -30,19 +30,19 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/2d78a39b-96c9-4b6b-9af7-4b8acfd97be1" width="250" alt="Home Dashboard" />
+      <img src="https://github.com/user-attachments/assets/66316754-b75d-40f9-89d7-d3781245d050" width="250" alt="Home Dashboard" />
       <br />
       <sub><b>Home Dashboard</b></sub>
     </td>
     <td width="5%"></td>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/6848e413-91ee-4341-bd84-9decbf6c4537" width="250" alt="Audio Editor" />
+      <img src="https://github.com/user-attachments/assets/94bee342-6e24-4aa1-b316-824ac7eec5a2" width="250" alt="Audio Editor" />
       <br />
       <sub><b>Audio Editor</b></sub>
     </td>
     <td width="5%"></td>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/961aaf28-3c50-46f8-b26c-631180f61726" width="250" alt="App Settings" />
+      <img src="https://github.com/user-attachments/assets/a7ff356d-6818-42bb-9694-5978148d5096" width="250" alt="App Settings" />
       <br />
       <sub><b>App Settings</b></sub>
     </td>
